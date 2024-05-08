@@ -3,8 +3,8 @@ package com.kernivel.fibonacci;
 /*
  *
  * @author ING. Roberto Calero
- * https://www.kernivel.com
- * https://buymeacoffee.com/kernivel
+ * www.kernivel.com
+ * buymeacoffee.com/kernivel
  *
  */
 
